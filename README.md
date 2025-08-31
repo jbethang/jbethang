@@ -1,6 +1,6 @@
-https://www.canva.com/design/DAGnmk__1_s/OptcLOjW4SIsS4bsjbkP_w/edit?utm_content=DAGnmk__1_s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 <!-- Banner Image -->
-<img width="1024" height="1024" alt="Salai Jbe Thang" src="https://github.com/user-attachments/assets/c0a619d8-b51b-4dec-bd7a-543d8d4eae80" />
+<img width="1024" height="1024" alt="Salai Jbe Thang" src="https://salaijbethang.my.canva.site/salai-jbe-thang-s-cybersecurity-github-profile" />
 
 
 
