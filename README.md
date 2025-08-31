@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://i.imgur.com/your-cyber-banner.png" alt="Cybersecurity Banner" width="100%" />
+<img src="![Uploading image.png…]()
+" alt="Cybersecurity Banner" width="100%" />
 
 # 👨‍💻 Salai Jbe Thang
 ### 🕵️‍♂️ Ethical Hacker | Cybersecurity Professional
