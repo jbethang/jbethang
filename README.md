@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<img src="<img width="1024" height="1024" alt="Salai Jbe Thang" src="https://github.com/user-attachments/assets/c0a619d8-b51b-4dec-bd7a-543d8d4eae80" />
+<img width="1024" height="1024" alt="Salai Jbe Thang" src="https://github.com/user-attachments/assets/c0a619d8-b51b-4dec-bd7a-543d8d4eae80" />
 
-" alt="Cybersecurity Banner" width="100%" />
+
 
 # 👨‍💻 Salai Jbe Thang
 ### 🕵️‍♂️ Ethical Hacker | Cybersecurity Professional
