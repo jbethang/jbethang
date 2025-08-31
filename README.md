@@ -1,10 +1,9 @@
 
 <!-- Banner Image -->
+
 <img width="1024" height="1024" alt="Salai Jbe Thang" src="https://salaijbethang.my.canva.site/salai-jbe-thang-s-cybersecurity-github-profile" />
 
 
-
-# 👨‍💻 Salai Jbe Thang
 ### 🕵️‍♂️ Ethical Hacker | Cybersecurity Professional
 
 [![LinkedIn Badge](https://img.shields.io/badge/-SalaiJbeThang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jbethang)](https://linkedin.com/in/jbethang)
